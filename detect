@@ -1,0 +1,11 @@
+if game.PlaceId == 283721918 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BigFella8/intro/main/SH'))()
+else
+print("Wrong Game")
+end
+
+if game.PlaceId == 855499080 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BigFella8/intro/main/SH'))()
+else
+print("Wrong Game")
+end
